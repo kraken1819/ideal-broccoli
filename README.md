@@ -1,2 +1,2 @@
 # ideal-broccoli
-Contains Implementation of C++ important concepts
+It's just me Understanding, Implementing, Documenting Core concepts of programming (C++, Python)
